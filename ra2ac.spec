@@ -23,7 +23,7 @@ PLD.
 
 %description -l pl
 Zestaw skryptów do robienia upgrade z PLD Ra (1.x) do PLD Ac (2.0).
-Jest to naprawdê przydatne, je¿eli chcia³by¶ siê przesi±¶æ na nowcz±
+Jest to naprawdê przydatne, je¿eli chcia³by¶ siê przesi±¶æ na nowsz±
 liniê PLD.
 
 %prep
