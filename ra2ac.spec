@@ -5,12 +5,12 @@
 Summary:	Ra -> Ac converter
 Summary(pl):	Konwerter Ra -> Ac
 Name:		ra2ac
-Version:	0.9
-Release:	0.9
+Version:	0.10
+Release:	1
 License:	GPL v2
 Group:		Applications/System
 Source0:	http://piorun.ds.pg.gda.pl/~blues/SOURCES/%{name}-%{version}.tar.gz
-# Source0-md5:	c6ba2eceeb90f683a6a96e3ad73d7d0f
+# Source0-md5:	e254c3ade7655401ed3c26279d3ef6b5
 URL:		http://www.pld-linux.org/
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
@@ -46,5 +46,5 @@ rm -rf $RPM_BUILD_ROOT
 
 %files
 %defattr(644,root,root,755)
-%doc ChangeLog README TODO
+%doc ChangeLog README* TODO
 %attr(755,root,root) %{_sbindir}/*
