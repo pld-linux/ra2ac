@@ -11,6 +11,7 @@ License:	GPL v2
 Group:		Applications/System
 Source0:	http://piorun.ds.pg.gda.pl/~blues/SOURCES/%{name}-%{version}.tar.gz
 # Source0-md5:	e254c3ade7655401ed3c26279d3ef6b5
+# Source0-size:	10031
 URL:		http://www.pld-linux.org/
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
