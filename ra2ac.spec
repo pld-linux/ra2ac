@@ -21,10 +21,16 @@ Set of upgrade scripts to make upgrade from PLD Ra (1.x) to PLD Ac
 (2.0). This is really useful when you want to switch to never line of
 PLD.
 
+Remember that you use that upgrade scripts at your own risk!
+It's really only helper.
+
 %description -l pl
 Zestaw skryptów do robienia upgrade z PLD Ra (1.x) do PLD Ac (2.0).
 Jest to naprawdê przydatne, je¿eli chcia³by¶ siê przesi±¶æ na nowsz±
 liniê PLD.
+
+Pamiêtaj, ¿e u¿ywasz tych skryptów na w³asn± odpowiedzialno¶æ!
+To tylko pomoc dla ciebie.
 
 %prep
 %setup -q
