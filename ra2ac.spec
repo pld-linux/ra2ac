@@ -3,7 +3,7 @@
 # - make proper nice banner
 # - make some way to have obsoletes on that package
 Summary:	Ra -> Ac converter
-Summary(pl):	Konwerter Ra -> Ac
+Summary(pl.UTF-8):   Konwerter Ra -> Ac
 Name:		ra2ac
 Version:	0.10
 Release:	1
@@ -24,12 +24,12 @@ PLD.
 Remember that you use that upgrade scripts at your own risk!
 It's really only helper.
 
-%description -l pl
-Zestaw skryptów do robienia upgrade z PLD Ra (1.x) do PLD Ac (2.0).
-Jest to naprawdê przydatne, je¿eli chcia³by¶ siê przesi±¶æ na nowsz±
-liniê PLD.
+%description -l pl.UTF-8
+Zestaw skryptÃ³w do robienia upgrade z PLD Ra (1.x) do PLD Ac (2.0).
+Jest to naprawdÄ™ przydatne, jeÅ¼eli chciaÅ‚byÅ› siÄ™ przesiÄ…Å›Ä‡ na nowszÄ…
+liniÄ™ PLD.
 
-Pamiêtaj, ¿e u¿ywasz tych skryptów na w³asn± odpowiedzialno¶æ!
+PamiÄ™taj, Å¼e uÅ¼ywasz tych skryptÃ³w na wÅ‚asnÄ… odpowiedzialnoÅ›Ä‡!
 To tylko pomoc dla ciebie.
 
 %prep
