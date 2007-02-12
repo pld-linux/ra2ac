@@ -3,7 +3,7 @@
 # - make proper nice banner
 # - make some way to have obsoletes on that package
 Summary:	Ra -> Ac converter
-Summary(pl.UTF-8):   Konwerter Ra -> Ac
+Summary(pl.UTF-8):	Konwerter Ra -> Ac
 Name:		ra2ac
 Version:	0.10
 Release:	1
